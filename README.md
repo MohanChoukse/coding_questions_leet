@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0169-majority-element) |
 | [1833-maximum-ice-cream-bars](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -36,9 +38,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
