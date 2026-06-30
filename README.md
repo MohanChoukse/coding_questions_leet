@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0206-reverse-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
