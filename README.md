@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0169-majority-element) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
