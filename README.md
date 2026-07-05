@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0143-reorder-list) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0242-valid-anagram) |
 ## Stack
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
