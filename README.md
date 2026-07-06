@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0027-remove-element) |
+| [0128-longest-consecutive-sequence](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0283-move-zeroes) |
 | [1833-maximum-ice-cream-bars](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1833-maximum-ice-cream-bars) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0169-majority-element) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3898-find-the-degree-of-each-vertex) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
