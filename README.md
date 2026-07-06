@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0242-valid-anagram) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/MohanChoukse/coding_questions_leet/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Stack
 |  |
 | ------- |
