@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1903-largest-odd-number-in-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/MohanChoukse/coding_questions_leet/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Stack
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0013-roman-to-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
