@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/MohanChoukse/coding_questions_leet/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Stack
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0143-reorder-list) |
 | [1021-remove-outermost-parentheses](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1021-remove-outermost-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
