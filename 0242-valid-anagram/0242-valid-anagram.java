@@ -3,21 +3,21 @@ class Solution {
         s.toLowerCase();
         t.toLowerCase();
 
-        if(s.length() == t.length()){
+        if (s.length() == t.length()) {
             char arr1[] = s.toCharArray();
             char arr2[] = t.toCharArray();
 
-        Arrays.sort(arr1);
-        Arrays.sort(arr2);
+            Arrays.sort(arr1);
+            Arrays.sort(arr2);
 
-    boolean str = Arrays.equals(arr1 , arr2);
-    if(str){
-        return true;
-    }else{
-        return false;
-    }
+            boolean str = Arrays.equals(arr1, arr2);
+            if (str) {
+                return true;
+            } else {
+                return false;
+            }
 
-        }else{
+        } else {
             return false;
         }
     }
