@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Set;
+
 class Solution {
     public int majorityElement(int[] nums) {
         // int count = 0;
