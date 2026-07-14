@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0560-subarray-sum-equals-k) |
 | [1833-maximum-ice-cream-bars](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1833-maximum-ice-cream-bars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0560-subarray-sum-equals-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0796-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
