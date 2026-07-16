@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0560-subarray-sum-equals-k) |
 | [1833-maximum-ice-cream-bars](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1833-maximum-ice-cream-bars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3668-restore-finishing-order](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0560-subarray-sum-equals-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3668-restore-finishing-order](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3668-restore-finishing-order) |
 ## Divide and Conquer
 |  |
 | ------- |
