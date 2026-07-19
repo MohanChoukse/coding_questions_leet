@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0242-valid-anagram) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0206-reverse-linked-list) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
