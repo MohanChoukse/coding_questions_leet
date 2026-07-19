@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0148-sort-list) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0344-reverse-string) |
