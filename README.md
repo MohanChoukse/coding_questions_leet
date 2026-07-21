@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0560-subarray-sum-equals-k) |
 | [1833-maximum-ice-cream-bars](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1833-maximum-ice-cream-bars) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/MohanChoukse/coding_questions_leet/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3024-type-of-triangle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3024-type-of-triangle) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3668-restore-finishing-order](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0451-sort-characters-by-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1833-maximum-ice-cream-bars) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/MohanChoukse/coding_questions_leet/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3024-type-of-triangle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3024-type-of-triangle) |
 ## Counting Sort
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1903-largest-odd-number-in-string) |
+| [3024-type-of-triangle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3024-type-of-triangle) |
 ## Sliding Window
 |  |
 | ------- |
