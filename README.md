@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1903-largest-odd-number-in-string) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/MohanChoukse/coding_questions_leet/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3024-type-of-triangle) |
 ## Sliding Window
 |  |
