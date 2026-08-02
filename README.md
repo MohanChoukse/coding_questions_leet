@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1833-maximum-ice-cream-bars](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1833-maximum-ice-cream-bars) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/MohanChoukse/coding_questions_leet/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3024-type-of-triangle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3024-type-of-triangle) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bucket Sort
 |  |
 | ------- |
