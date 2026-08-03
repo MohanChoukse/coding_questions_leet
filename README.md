@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0560-subarray-sum-equals-k) |
+| [0877-stone-game](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1903-largest-odd-number-in-string) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/MohanChoukse/coding_questions_leet/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3024-type-of-triangle) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0005-longest-palindromic-substring) |
+| [0877-stone-game](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -247,4 +250,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0146-lru-cache) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
