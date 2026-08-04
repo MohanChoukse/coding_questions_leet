@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0992-subarrays-with-k-different-integers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3668-restore-finishing-order](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3668-restore-finishing-order) |
 ## Divide and Conquer
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
