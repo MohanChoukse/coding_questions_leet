@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1833-maximum-ice-cream-bars](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1833-maximum-ice-cream-bars) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1833-maximum-ice-cream-bars](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0992-subarrays-with-k-different-integers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3668-restore-finishing-order](https://github.com/MohanChoukse/coding_questions_leet/tree/master/3668-restore-finishing-order) |
 ## Divide and Conquer
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/MohanChoukse/coding_questions_leet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MohanChoukse/coding_questions_leet/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
